@@ -1,6 +1,8 @@
 # Covid---19-Impact-Ananlysis
 
-This Dashboard build in pyhton with the help of Dash library.
+The "Covid-19 Impact Analysis" project uses Python's Dash
+library and Flask for web deployment to create an interactive
+dashboard.
 
 It's a complete project with dataset included.
 
