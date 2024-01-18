@@ -1,4 +1,4 @@
-# Covid---19-Impact-Ananlysis
+# Covid---19-Impact-Analysis
 
 The "Covid-19 Impact Analysis" project uses Python's Dash
 library and Flask for web deployment to create an interactive
